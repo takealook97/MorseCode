@@ -88,8 +88,6 @@ public class Translator {
                     case MorseConstant.SEVEN -> result.append("7");
                     case MorseConstant.EIGHT -> result.append("8");
                     case MorseConstant.NINE -> result.append("9");
-//                case " " -> result.append(" ");
-//                default -> result.append(" ");
                 }
             }
             result.append(" ");
